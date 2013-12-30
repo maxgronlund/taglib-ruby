@@ -1,5 +1,5 @@
 name             'taglib-ruby'
-maintainer       'YOUR_COMPANY_NAME'
+maintainer       'Pixelsonrails'
 maintainer_email 'YOUR_EMAIL'
 license          'All rights reserved'
 description      'Installs/Configures taglib-ruby'
